@@ -7,6 +7,9 @@ using PlayerController.Application.Movement;
 
 namespace PlayerController.Application
 {
+    /// <summary>
+    /// Orchestrator that recieves Action Requests and evaluates them using Core rules.
+    /// </summary>
     public class AppOrchestrator
     {
         private ActionDispatcher _actionDispatcher;
@@ -21,7 +24,6 @@ namespace PlayerController.Application
         }
         public List<IActionResult> ProcessActions(PlayerActionContext actionContext)
         {
-            // NOTE Consider refactoring this so you can pass ActionContext into the rule state.
             // Update core rules
             actionContext.RuleState.UpdateRules(actionContext.InputValues, actionContext.Facts, actionContext.Dt);
 
@@ -45,7 +47,7 @@ namespace PlayerController.Application
             actionContext.RuleState.GroundedLastFrame = actionContext.Facts.IsGrounded;
 
 
-            // sort the action results
+            // sort the action results by phase priority. Impulse happens before continous actions. ie Jump is calculated before Run.
             var orderedResults = _actionResults.OrderBy(r => r.Phase).ToList();
 
             return orderedResults;

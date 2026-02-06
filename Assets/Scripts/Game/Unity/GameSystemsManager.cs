@@ -15,6 +15,9 @@ using Game.Unity.Scene;
 
 namespace Game.Unity
 {
+    /// <summary>
+    /// Central orchestrator for all scene systems. This object persists throughout the life of a play session. The GSM instantiates the services contained within GameContext that are then distributed to objects in the scene via scene boot strapper. The GSM also instantiates the SimManager and GameStateManager.
+    /// </summary>
     public class GameSystemsManager : MonoBehaviour
     {
         public static GameSystemsManager Instance { get; private set; }
@@ -33,7 +36,6 @@ namespace Game.Unity
         private IQuitExecutor _executeQuitService;
         private InfrastructureServices _quitServices;
         private IGameContext _gameContext;
-        private bool _sceneReady;
 
         private void Awake()
         {

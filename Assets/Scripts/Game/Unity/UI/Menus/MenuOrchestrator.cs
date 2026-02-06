@@ -38,12 +38,6 @@ namespace Primitives.UI.Menus.Unity
 
         }
 
-        private void Start()
-        {
-            // Once everything is settled, set the new page
-            // _menuController.EnterStartPage();
-        }
-
         public void Initialize(IGameContext context)
         {
             _menuController.AddServices(context.GameStateServices, context.QuitServices);
@@ -95,14 +89,12 @@ namespace Primitives.UI.Menus.Unity
 
         private void WireCommands(IMenuPage page)
         {
-
             // Wire the buttons
             foreach (IUIElement element in page.Elements)
             {
                 element.OnSubmit += HandleCommand;
                 element.OnFocus += HandleCommand;
             }
-
         }
 
 

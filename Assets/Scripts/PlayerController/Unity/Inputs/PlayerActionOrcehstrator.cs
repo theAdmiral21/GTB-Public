@@ -21,6 +21,9 @@ using Primitives.Common.Execution;
 
 namespace PlayerController.Unity.Inputs
 {
+    /// <summary>
+    /// Orchestrator for player controls. This class recieves input from input providers and converts them into action requests which are evaluated in PlayerController.Core and then returned as action results. The action results are then sent to the effect orchestrator for playing sound effects, the simulation driver for moving the player, and the animator bridge to animate the player.
+    /// </summary>
     public class PlayerActionOrchestrator : MonoBehaviour, IInitializable<IGameContext>
     {
         [SerializeField] private PlayerInputReader _inputReader;
@@ -96,6 +99,7 @@ namespace PlayerController.Unity.Inputs
             _inputReader.BufferJump -= BufferInputs;
         }
 
+
         private void Update()
         {
             PhysicsContext physicsContext = _physicsMonitor.CurrentContext;
@@ -109,6 +113,7 @@ namespace PlayerController.Unity.Inputs
                 Dt = Time.deltaTime,
             };
 
+            // Update the input values for this frame
             UpdateInputState();
 
             // Buffer requested actions
@@ -120,18 +125,6 @@ namespace PlayerController.Unity.Inputs
             _debugContext.CurrentGameState = _gameState.CurrentState;
             _debugContext.RuleState = _ruleState;
             _debugContext.Dt = Time.deltaTime;
-
-            // _debugSb.Clear();
-            // string header = $"Requests for frame: {Time.frameCount}";
-            // _debugSb.AppendLine(header);
-            // for (int i = 0; i < _requests.Count; i++)
-            // {
-            //     _debugSb.AppendLine($"{_requests[i].RequestType} handled by {GetInstanceID()}");
-            // }
-            // if (_requests.Count > 0)
-            // {
-            //     Debug.Log(_debugSb);
-            // }
 
             // Process this frame via core
             var actionResults = _appOrchestrator.ProcessActions(context);

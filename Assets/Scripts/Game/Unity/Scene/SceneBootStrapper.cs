@@ -12,6 +12,9 @@ using System;
 
 namespace Game.Unity.Scene
 {
+    /// <summary>
+    /// Boot strapper used to prepare a given scene. The boot strapper uses the GameContextRegistry to initialize subscribed objects within the scene. Objects are initialized in two passes, Initialize and Post Initialize, to prevent race conditions.
+    /// </summary>
     public class SceneBootStrapper : MonoBehaviour, ISceneBootStrapper
     {
 
