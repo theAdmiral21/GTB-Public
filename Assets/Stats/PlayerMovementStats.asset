@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fafa8387171b0643a08fc385e774ac2, type: 3}
+  m_Name: PlayerMovementStats
+  m_EditorClassIdentifier: 
+  _groundSpeedLimit: 30
+  fallSpeedLimit: 30
+  runSpeed: 15
+  sprintSpeed: 20
+  sprintAccel: 10
+  fallThresh: 0
+  jumpThresh: 0
+  runAccel: 40
+  brakeAccel: 40
+  runAccelTime: 0.1
+  quickStepSpeed: 0
+  quickStepDistance: 30
+  aerialAccel: 30
+  aerialBrake: 25
+  aerialAccelTime: 0.1
+  fastFall: 7
+  slowFall: 5
+  jumpHeight: 4.4
+  jumpApexTime: 0.4
+  jumpDeccelTime: 0.1
+  totalJumps: 2
+  jumpGravity: 0
+  baseGravity: -9.81
+  wallSlideSpeed: -5
+  wallJumpVelocity: 10
+  wallJumpHeight: 4
+  wallJumpApexTime: 0.3
+  wallJumpDistance: 4
+  _slideBoost: 3
+  _slideBrakeForce: 1
+  _grabBufferTime: 0.5
+  _grabRadius: 1
+  grabPoint: {x: 1, y: 1.2}
+  swingPoint: {x: 0, y: 1.8}
+  _swingJumpForce: 20
+  wallJumpBufferTime: 0.5
+  coyoteTime: 0.25
+  jumpBufferTime: 0.2
+  _boostCoolDown: 1

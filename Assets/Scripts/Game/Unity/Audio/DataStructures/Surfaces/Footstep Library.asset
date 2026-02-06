@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be693ec8321f74a478ec1d94e276b111, type: 3}
+  m_Name: Footstep Library
+  m_EditorClassIdentifier: 
+  DirtyGround: {fileID: 11400000, guid: 3226e42b27c9e9b47a940fc332f08f24, type: 2}
+  Grass: {fileID: 11400000, guid: 9ec6fb073b81f55499d4b51b07625bd8, type: 2}
+  Gravel: {fileID: 11400000, guid: 88c9414d1eda70644992c6acf9b59afb, type: 2}
+  Leaves: {fileID: 11400000, guid: 699e15896d28d1b489da1f790d6f8b38, type: 2}
+  Metal: {fileID: 11400000, guid: 29a73110229892849a91eca5116198c6, type: 2}
+  Mud: {fileID: 11400000, guid: 02f6bb99a0e8f4d4e97e58dbd566475b, type: 2}
+  Rock: {fileID: 11400000, guid: fe9bb591f3b8e9b4d9b489ce2c1b30f6, type: 2}
+  Rug: {fileID: 11400000, guid: 6bc74a2833709b84c8b99deff47b54a2, type: 2}
+  Sand: {fileID: 11400000, guid: 464a96d64f4cc564991ebf9f7832dddc, type: 2}
+  Snow: {fileID: 11400000, guid: 91b840b6191480e41ae230e2fc9a891b, type: 2}
+  Stone: {fileID: 11400000, guid: 7fe3682a2af65184b8411d32a8ed1f3a, type: 2}
+  Tile: {fileID: 11400000, guid: 3f930a480dd5c9249a6cf9058358ed43, type: 2}
+  Water: {fileID: 11400000, guid: 9f29d7d99888cdd4b8117e61cf2a2d3a, type: 2}
+  Wood: {fileID: 11400000, guid: a7906a47759d4ce4faf7138cfebf07c6, type: 2}

@@ -1,0 +1,19 @@
+{
+    "name": "PlayerController",
+    "rootNamespace": "PlayerController",
+    "references": [
+        "GUID:14e10fbcab1f3394099a46a664071632",
+        "GUID:159a75d75b343a440979bfbd2f7e24a8",
+        "GUID:bf231ccad6cbedd4abc60999bc692c94",
+        "GUID:60ee626932395364589f2d60df1b18a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

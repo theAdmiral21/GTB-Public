@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7755c6c251cfb4a840a33828f673c5, type: 3}
+  m_Name: RugSurface
+  m_EditorClassIdentifier: 
+  Surface: 8
+  Run:
+  - {fileID: 8300000, guid: 1f1d16aaee0c6b642b6b913f614d1053, type: 3}
+  - {fileID: 8300000, guid: 23efc1e4a2149334db8908137d0009a6, type: 3}
+  - {fileID: 8300000, guid: 30ca3460c873b98438e326f532076d47, type: 3}
+  - {fileID: 8300000, guid: 312a20a435c0d1143ae16da97c03aeaa, type: 3}
+  - {fileID: 8300000, guid: 0eb85d102c378c74b9204bca920485f7, type: 3}
+  Walk:
+  - {fileID: 8300000, guid: 18ba0a343af17ab408060f7f4d9f8859, type: 3}
+  - {fileID: 8300000, guid: c47a44682a0e37d4dae3ca745fc70f5c, type: 3}
+  - {fileID: 8300000, guid: 0e1e741d1392e6c47a4ce90c21ab396d, type: 3}
+  - {fileID: 8300000, guid: 72e082f95d8d7ed4884050c61fb2026c, type: 3}
+  - {fileID: 8300000, guid: 897332d2e040ec348bc0668a1dd522db, type: 3}
+  Jumps:
+  - {fileID: 8300000, guid: 7b993f2079b2fa74a9194a32443f1d97, type: 3}
+  - {fileID: 8300000, guid: 6aa7070d1c889cd4ba45bf785de5d92e, type: 3}
+  Landings:
+  - {fileID: 8300000, guid: 1134b60bca2cd4049a2dc00208f5b402, type: 3}
+  - {fileID: 8300000, guid: 43e1d0aa837b92c4f9ead86b5d2ffbe8, type: 3}
+  BarkVolume: 1
+  BarkPitchRange: {x: 0.95, y: 1.05}

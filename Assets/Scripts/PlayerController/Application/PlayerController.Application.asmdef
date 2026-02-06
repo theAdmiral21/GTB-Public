@@ -1,0 +1,19 @@
+{
+    "name": "PlayerController.Application",
+    "rootNamespace": "PlayerController.Application",
+    "references": [
+        "GUID:60ee626932395364589f2d60df1b18a7",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:cf680f0d1402e6144baa0e56b0638197",
+        "GUID:1d549ba276deda24a8b3829648f4459f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

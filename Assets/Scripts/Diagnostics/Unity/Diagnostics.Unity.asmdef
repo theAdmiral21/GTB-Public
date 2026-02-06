@@ -1,0 +1,16 @@
+{
+    "name": "Diagnostics.Unity",
+    "rootNamespace": "Diagnostics.Unity",
+    "references": [
+        "GUID:1d549ba276deda24a8b3829648f4459f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

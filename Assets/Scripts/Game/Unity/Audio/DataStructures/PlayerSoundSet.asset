@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0783282fc5c9db47a61269db64e1743, type: 3}
+  m_Name: PlayerSoundSet
+  m_EditorClassIdentifier: 
+  Barks:
+  - {fileID: 8300000, guid: c3ee38cafd168624db96030b6c378061, type: 3}
+  - {fileID: 8300000, guid: ac44f15cff65ec849aee1e560b1528b6, type: 3}
+  - {fileID: 8300000, guid: 20f7ac6885f62e54c8040568103b683d, type: 3}
+  - {fileID: 8300000, guid: 03e03de2a935e554d92226c2f093500f, type: 3}
+  Howls:
+  - {fileID: 8300000, guid: 2f679c3d6781de944840a1c479acb53a, type: 3}
+  - {fileID: 8300000, guid: 09ea012c4bd108b43bd16cb7161aa3b3, type: 3}
+  - {fileID: 8300000, guid: fb923efdae272584a8016a3af26c2726, type: 3}
+  BarkVolume: 1
+  BarkPitchRange: {x: 0.95, y: 1.05}

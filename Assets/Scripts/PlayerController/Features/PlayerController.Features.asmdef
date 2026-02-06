@@ -1,0 +1,19 @@
+{
+    "name": "PlayerController.Features",
+    "rootNamespace": "PlayerController.Features",
+    "references": [
+        "GUID:bf231ccad6cbedd4abc60999bc692c94",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:60ee626932395364589f2d60df1b18a7",
+        "GUID:1d549ba276deda24a8b3829648f4459f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

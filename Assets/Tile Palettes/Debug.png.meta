@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: f0a36521102051545be34c41025e2469
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4083328320817141244
+    second: Debug_0
+  - first:
+      213: 7626761735174604133
+    second: Debug_1
+  - first:
+      213: 2004552743215940151
+    second: Debug_2
+  - first:
+      213: -452521096872723844
+    second: Debug_3
+  - first:
+      213: -3204388614737774973
+    second: Debug_4
+  - first:
+      213: 3811444684985824342
+    second: Debug_5
+  - first:
+      213: -8669276547443149746
+    second: Debug_6
+  - first:
+      213: 4116221804704364802
+    second: Debug_7
+  - first:
+      213: -2671080906734161791
+    second: Debug_8
+  - first:
+      213: -6247282238278472908
+    second: Debug_9
+  - first:
+      213: -7822703232885766865
+    second: Debug_10
+  - first:
+      213: 6542846377967222596
+    second: Debug_11
+  - first:
+      213: -8434329073177980484
+    second: Debug_12
+  - first:
+      213: -8957220391096226614
+    second: Debug_13
+  - first:
+      213: 4787741538448792716
+    second: Debug_14
+  - first:
+      213: 4572529614969491334
+    second: Debug_15
+  - first:
+      213: 3557162543647094432
+    second: Debug_16
+  - first:
+      213: 2132755406601889383
+    second: Debug_17
+  - first:
+      213: -7861964704482648691
+    second: Debug_18
+  - first:
+      213: 5976533756267686898
+    second: Debug_19
+  - first:
+      213: 4948863867905701249
+    second: Debug_20
+  - first:
+      213: -6643459706287023906
+    second: Debug_21
+  - first:
+      213: -3231357811075938652
+    second: Debug_22
+  - first:
+      213: -7875726247258478195
+    second: Debug_23
+  - first:
+      213: 6797525526544449943
+    second: Debug_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Debug_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5199f2975eaa830800000000000000
+      internalID: 4083328320817141244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cf9bc363b7d960800000000000000
+      internalID: 7626761735174604133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732cbe0791a91db10800000000000000
+      internalID: 2004552743215940151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7af78fb57258b9f0800000000000000
+      internalID: -452521096872723844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bf305889b783d0800000000000000
+      internalID: -3204388614737774973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65471a14fb8f4e430800000000000000
+      internalID: 3811444684985824342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b60279ea80b780800000000000000
+      internalID: -8669276547443149746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209fe163ce1cf1930800000000000000
+      internalID: 4116221804704364802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18038cb311a6eead0800000000000000
+      internalID: -2671080906734161791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bedcf57e13d49a0800000000000000
+      internalID: -6247282238278472908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f254b8c2bdc207390800000000000000
+      internalID: -7822703232885766865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fffa28d1cdcca50800000000000000
+      internalID: 6542846377967222596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11a7a156e33fa80800000000000000
+      internalID: -8434329073177980484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acce2ddf28f81b380800000000000000
+      internalID: -8957220391096226614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_14
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c5f9b0099717240800000000000000
+      internalID: 4787741538448792716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_15
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc5316573e47f30800000000000000
+      internalID: 4572529614969491334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6f86e9c749d5130800000000000000
+      internalID: 3557162543647094432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ac431eb1199d10800000000000000
+      internalID: 2132755406601889383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_18
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d17a871c0b4e290800000000000000
+      internalID: -7861964704482648691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_19
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb677a49c9e0f250800000000000000
+      internalID: 5976533756267686898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185f848b775eda440800000000000000
+      internalID: 4948863867905701249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8142f7890bdc3a0800000000000000
+      internalID: -6643459706287023906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a682a8f039e723d0800000000000000
+      internalID: -3231357811075938652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 17
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8920fb94bcc3b290800000000000000
+      internalID: -7875726247258478195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Debug_24
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79105599379a55e50800000000000000
+      internalID: 6797525526544449943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Debug_0: 4083328320817141244
+      Debug_1: 7626761735174604133
+      Debug_10: -7822703232885766865
+      Debug_11: 6542846377967222596
+      Debug_12: -8434329073177980484
+      Debug_13: -8957220391096226614
+      Debug_14: 4787741538448792716
+      Debug_15: 4572529614969491334
+      Debug_16: 3557162543647094432
+      Debug_17: 2132755406601889383
+      Debug_18: -7861964704482648691
+      Debug_19: 5976533756267686898
+      Debug_2: 2004552743215940151
+      Debug_20: 4948863867905701249
+      Debug_21: -6643459706287023906
+      Debug_22: -3231357811075938652
+      Debug_23: -7875726247258478195
+      Debug_24: 6797525526544449943
+      Debug_3: -452521096872723844
+      Debug_4: -3204388614737774973
+      Debug_5: 3811444684985824342
+      Debug_6: -8669276547443149746
+      Debug_7: 4116221804704364802
+      Debug_8: -2671080906734161791
+      Debug_9: -6247282238278472908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

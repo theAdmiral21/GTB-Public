@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b7755c6c251cfb4a840a33828f673c5, type: 3}
+  m_Name: MetalSurface
+  m_EditorClassIdentifier: 
+  Surface: 5
+  Run:
+  - {fileID: 8300000, guid: 21429c1d8ac7cd542a3b7031c9f227e4, type: 3}
+  - {fileID: 8300000, guid: 370827cfd7270f243ad624e76c0b1a57, type: 3}
+  - {fileID: 8300000, guid: e22545aa564689c4ab5778f00f9cd7cf, type: 3}
+  Walk:
+  - {fileID: 8300000, guid: 21429c1d8ac7cd542a3b7031c9f227e4, type: 3}
+  - {fileID: 8300000, guid: 370827cfd7270f243ad624e76c0b1a57, type: 3}
+  - {fileID: 8300000, guid: e22545aa564689c4ab5778f00f9cd7cf, type: 3}
+  Jumps:
+  - {fileID: 8300000, guid: 2e868c840241ede4db441495b2c51c66, type: 3}
+  Landings:
+  - {fileID: 8300000, guid: f953d6c091f1c9146b6d2851f35eddc9, type: 3}
+  BarkVolume: 1
+  BarkPitchRange: {x: 0.95, y: 1.05}

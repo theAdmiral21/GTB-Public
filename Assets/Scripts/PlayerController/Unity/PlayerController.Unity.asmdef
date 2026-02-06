@@ -1,0 +1,26 @@
+{
+    "name": "PlayerController.Unity",
+    "rootNamespace": "PlayerController.Unity",
+    "references": [
+        "GUID:bf231ccad6cbedd4abc60999bc692c94",
+        "GUID:60ee626932395364589f2d60df1b18a7",
+        "GUID:159a75d75b343a440979bfbd2f7e24a8",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:cf680f0d1402e6144baa0e56b0638197",
+        "GUID:a53f1ee1bdbc2924d9b35001c74ce345",
+        "GUID:3b1700039a2fa9e4c86d834714c7aad6",
+        "GUID:1d549ba276deda24a8b3829648f4459f",
+        "GUID:5bd3a720e0f2ddc4ba647062dba97799",
+        "GUID:2a6904248f49bb54dae10650a61c0002",
+        "GUID:d302590cee7705b45b92e333ba39e171"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
