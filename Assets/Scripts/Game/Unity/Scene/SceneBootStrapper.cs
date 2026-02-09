@@ -4,7 +4,6 @@ using System.Text;
 using Primitives.Application.Scene.Abstractions;
 using Primitives.Unity.Infrastructure;
 using Infrastructure.Unity;
-using log4net.Util;
 using Primitives.Execution;
 using UnityEngine;
 using Primitives.Common.Execution;
