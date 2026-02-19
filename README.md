@@ -4,7 +4,7 @@ This repository is a public technical showcase of core systems developed for *Qu
 
 *This repository is intended to be read as much as it is to be played.*
 
-If you enjoyed reading this, check out the [Golden Tennis Ball Devlog] (https://theadmiral21.github.io/Golden-Tennis-Ball-Devlog/)
+If you enjoyed reading this, check out the [Golden Tennis Ball Devlog](https://theadmiral21.github.io/Golden-Tennis-Ball-Devlog/)
 
 ### Highlighted Systems
 - Intent-based movement system
