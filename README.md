@@ -2,8 +2,6 @@
 
 This repository is a public technical showcase of core systems developed for *Quest for the Golden Tennis Ball*. It is intended to demonstrate how I approach architecture, system decoupling, and long-term maintainability for complex software applications.
 
-*This repository is intended to be read as much as it is to be played.*
-
 If you enjoyed reading this, check out the [Golden Tennis Ball Devlog](https://theadmiral21.github.io/Golden-Tennis-Ball-Devlog/)
 
 ### Highlighted Systems
